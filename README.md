@@ -1,5 +1,5 @@
 # pokemon-go
-This project is an assessment project for a frontend role at Brank.as This demo app allows a user to view and learn more about
+This project is an assessment project for a frontend role at Brank.as. This demo app allows a user to view and learn more about
 Pokemon Cards. The app is hosted on Netify at https://dazzling-fermat-bea78a.netlify.com
 This project was scallfolded using the Vue-CLI and built using VueJs and Vuex for state management.
 
